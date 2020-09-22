@@ -1,0 +1,41 @@
+.container{
+    max-width: 380px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    text-align: center;
+    border: 2px solid #979797;
+    border-radius: 2px;
+}
+.about{
+    width: 100%;
+}
+.img{
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.names{
+    font-weight: 700;
+    font-size: 20px;
+}
+.hashtag, .locations{
+    color: #9c9c9c
+}
+.popularityBox{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.statsName{
+    background-color: #dfeeff;
+    width: 160px;
+    color: #9c9c9c;
+    border: 1px solid #979797;
+    display: inline-block;
+    padding: 20px 0px;
+}
+.stats{
+    color: black;
+    display: block;
+    font-weight: 700;
+}
